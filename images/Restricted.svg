@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="f53155b5-cf6b-41f6-b81b-2419037eaf74"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="911f3632-cb39-4626-b082-7bff3af28ca2"  >
+</g>
+<g transform="matrix(45 0 0 45 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-13, -12.04)" d="M 12 20.95 Q 8.975 20.075 6.987 17.312 Q 5 14.55 5 11.1 L 5 5.7 L 12 3.075 L 19 5.7 L 19 11.35 Q 18.775 11.275 18.5 11.2 Q 18.225 11.125 18 11.075 L 18 6.375 L 12 4.15 L 6 6.375 L 6 11.1 Q 6 12.575 6.438 13.938 Q 6.875 15.3 7.625 16.438 Q 8.375 17.575 9.413 18.425 Q 10.45 19.275 11.625 19.725 L 11.675 19.7 Q 11.8 20 11.975 20.288 Q 12.15 20.575 12.375 20.825 Q 12.275 20.85 12.188 20.888 Q 12.1 20.925 12 20.95 Z M 17 17 Q 17.625 17 18.062 16.562 Q 18.5 16.125 18.5 15.5 Q 18.5 14.875 18.062 14.438 Q 17.625 14 17 14 Q 16.375 14 15.938 14.438 Q 15.5 14.875 15.5 15.5 Q 15.5 16.125 15.938 16.562 Q 16.375 17 17 17 Z M 17 20 Q 17.8 20 18.438 19.65 Q 19.075 19.3 19.5 18.7 Q 18.925 18.35 18.3 18.175 Q 17.675 18 17 18 Q 16.325 18 15.7 18.175 Q 15.075 18.35 14.5 18.7 Q 14.925 19.3 15.562 19.65 Q 16.2 20 17 20 Z M 17 21 Q 15.325 21 14.163 19.837 Q 13 18.675 13 17 Q 13 15.325 14.163 14.162 Q 15.325 13 17 13 Q 18.675 13 19.837 14.162 Q 21 15.325 21 17 Q 21 18.675 19.837 19.837 Q 18.675 21 17 21 Z M 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Q 12 11.95 12 11.95 Z" stroke-linecap="round" />
+</g>
+</svg>
